@@ -17,7 +17,7 @@ The **Raspberry Pi Pico** acts as the central microcontroller, collecting sensor
 - **MPU6050**: An IMU sensor that captures motion and vibration data to detect irregularities in the fan's operation.
 - **Edge Impulse**: A platform used for training and deploying the machine learning model.
  
-[Sample](https://github.com/Emrecanbl/Fan-Status-Classification-with-Raspberry-Pi-Pico/blob/main/1729714379593.jpg?raw=true)
+![Sample](https://github.com/Emrecanbl/Fan-Status-Classification-with-Raspberry-Pi-Pico/blob/main/1729714379593.jpg?raw=true)
 *Image: The setup of the project, including Raspberry Pi Pico and sensors*
 
 ## 🔄 System Workflow
