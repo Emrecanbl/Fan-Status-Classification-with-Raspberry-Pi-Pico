@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../LoRa-Ai-iot-Application"
+		},
+		{
+			"name": "Stm32_F103_Lora",
+			"path": "../Stm32_F103_Lora"
+		},
+		{
+			"name": "Rp2040_Ai_Lora",
+			"path": "../Rp2040_Ai_Lora"
+		},
+		{
+			"name": "pi_pico_Ai_lora",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
