@@ -2,7 +2,7 @@
 
 This project utilizes the **Raspberry Pi Pico**, **INA219** current sensor, and **MPU6050** IMU sensor to analyze and classify the operational status of a fan. The system leverages **Edge Impulse** to detect anomalies in the fan’s performance using voltage, current, and motion data.
 
-!![Sample](https://github.com/Emrecanbl/Fan-Status-Classification-with-Raspberry-Pi-Pico/blob/main/1729714220069.jpg?raw=true)
+!![Sample](https://github.com/Emrecanbl/Fan-Status-Classification-with-Raspberry-Pi-Pico/blob/main/1729714379593.jpg?raw=true)
 *Image: The setup of the project, including Raspberry Pi Pico and sensors*
 
 ## 📋 Project Overview
