@@ -71,7 +71,7 @@
 #define EI_CLASSIFIER_DATATYPE_INT8              9
 
 #define EI_CLASSIFIER_PROJECT_ID                 525395
-#define EI_CLASSIFIER_PROJECT_OWNER              "Emrecan Birgül"
+#define EI_CLASSIFIER_PROJECT_OWNER              "Emrecanbl"
 #define EI_CLASSIFIER_PROJECT_NAME               "Rp2040"
 #define EI_CLASSIFIER_PROJECT_DEPLOY_VERSION     4
 #define EI_CLASSIFIER_NN_INPUT_FRAME_SIZE        9
