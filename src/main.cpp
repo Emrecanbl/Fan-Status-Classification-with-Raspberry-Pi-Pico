@@ -299,12 +299,6 @@ static int8_t ei_find_axis(char *axis_name)
     return -1;
 }
 
-/**
- * @brief Check if requested input list is valid sensor fusion, create sensor buffer
- *
- * @param[in]  input_list      Axes list to sample (ie. "accX + gyrY + magZ")
- * @retval  false if invalid sensor_list
- */
 static bool ei_connect_fusion_list(const char *input_list)
 {
     char *buff;
@@ -346,12 +340,6 @@ static bool ei_connect_fusion_list(const char *input_list)
     return is_fusion;
 }
 
-/**
- * @brief Return the sign of the number
- *
- * @param number
- * @return int 1 if positive (or 0) -1 if negative
- */
 float ei_get_sign(float number) {
     return (number >= 0.0) ? 1.0 : -1.0;
 }
